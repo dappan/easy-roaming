@@ -18,6 +18,13 @@ https://gd.10086.cn/products_new/options/detail/ONE_TOMORE_CARD.shtml
 **中国移动无忧行**
 <details>
 
-![香港本地号码](https://raw.githubusercontent.com/dappan/roaming/main/assets/china/JegoTrip-HK.jpg)
+![香港号码](./assets/china/JegoTrip-HK.jpg)
 
+</details>
+
+**eSender HK**
+<details>
+功能限制：仅限在微信公众号接收短信
+
+![香港号码](./assets/china/eSender-HK.jpg)
 </details>
